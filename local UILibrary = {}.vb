@@ -83,11 +83,9 @@ local function getObjGen()
                 Text_6 = Instance.new("TextLabel"),
                 UITextSizeConstraint_2 = Instance.new("UITextSizeConstraint"),
                 UIPadding_3 = Instance.new("UIPadding"),
-                UIListLayout_4 = Instance.new("UIListLayout"),
-                Icon = Instance.new("Frame"),
+                UIListLayout_4 = Instance.new("UIListLayout"),               
                 UIAspectRatioConstraint_4 = Instance.new("UIAspectRatioConstraint"),
                 Holder = Instance.new("Frame"),
-                Icon_2 = Instance.new("ImageLabel"),
                 UIAspectRatioConstraint_5 = Instance.new("UIAspectRatioConstraint"),
                 UIListLayout_5 = Instance.new("UIListLayout"),
                 OptionHolder = Instance.new("Frame"),
@@ -1209,7 +1207,7 @@ local function getObjGen()
             Gui.Watermark.BackgroundTransparency = 1.000
             Gui.Watermark.Size = UDim2.new(0.5, 0, 0.0199999996, 0)
             Gui.Watermark.Font = Enum.Font.Gotham
-            Gui.Watermark.Text = "hydrahub v2 | nil | nil"
+            Gui.Watermark.Text = "DarkWare GUI | nil | nil"
             Gui.Watermark.TextColor3 = Color3.fromRGB(255, 255, 255)
             Gui.Watermark.TextSize = 14.000
             Gui.Watermark.TextStrokeTransparency = 0.800
